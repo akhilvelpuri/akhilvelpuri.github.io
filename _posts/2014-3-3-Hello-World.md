@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1 (8/24 - 8/28)
 ---
+##Past week:
+Over the past week, Fall semester has started in full force. I was fortunate enough to get all my classes, so I did not have to waste time figuring out my schedule. I have a very balanced schedule with a couple of interesting, yet demanding, CS classes (OOP and Algo), a math class, and a VAPA course requirement. After sitting through all the classes, I have a positive feeling that it's going to be a great semester.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+##In my way:
+Even though I have interned at a couple of companies, I unfortunately don't have much experience with most of the tools being introduced in my OOP class. Having learnt Java in all of the introductory CS courses, I don't have much experience with C++ either. But I'm confident I can deal with these problems.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+##Next week:
+As it has only been one week since college started, I still need to adjust my routine and get into a better rhythm. I must spend time learning the plethora of tools which will be used in the first OOP project, and also get a better grasp on the C++ concepts being taught in class.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+##Class experience:
+OOP is unlike any class I've taken before. The teaching style is very unique. I can't express in words how rattled I was, when I was called upon as one of the first people to explain some code. I might've disliked it in the moment, but I realized that it really forced me to pay attention and learn the concept extremely well.
+
+##Tip of the week:
+If you ever find yourself needing a web service API to interface with a SMS/Messaging service, try looking at Twilio. Creating a free account gives you a 'twilio number', which can be the target to your POST/GET requests. This number acts as a gateway between servers and phones, transferring messages from one medium to the other. Using this API, you could potentially post in a web-app by simply texting this number, or get a text in response to some event which has taken place on your web-app. It's really easy to use and learn.
