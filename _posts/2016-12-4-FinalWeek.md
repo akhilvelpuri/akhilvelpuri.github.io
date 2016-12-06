@@ -2,8 +2,6 @@
 layout: post
 title: Final Week (11/28 - 12/4)
 ---
-I can’t believe this semester has already come to an end! This week, I’m going to deviate from the regular conventional format and give an overall summary of my time in OOP, through the follow points:
-
 ## Lectures:
 The lectures were definitely my most favorite part of the course. It was very different (annoying) in the beginning to run from across campus to be on time, but I got used to it very quickly. It was a great experience being tested each day on the material being taught in class, as I was always forced to go home and revise. This seemed very painful initially, but it was very helpful in keeping me prepared for the exams. The lecture content itself was extremely well documented and organized. I found it very easy to use the resources to revise.
 
